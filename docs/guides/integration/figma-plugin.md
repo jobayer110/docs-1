@@ -46,7 +46,7 @@ To use the StackBlitz plugin, add it to a Figma file from either:
 
 Once you have added the plugin to your Figma file,
 
-1. Enable [Dev Mode](https://www.figma.com/dev-mode/) is on (`Shift` + `D`)
+1. Ensure [Dev Mode](https://www.figma.com/dev-mode/) is on (`Shift` + `D`)
 1. Select a layer
 1. Open in the StackBlitz plugin and paste a URL of a repository with the code of your project.
     - You can also use the URL of a specific file within this repository: typically, a component file, for instance: https://github.com/stackblitz/docs/blob/main/.vitepress/theme/components/CardLists/CardList.vue

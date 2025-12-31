@@ -5,7 +5,7 @@
   "scripts": {
     "build": "vitepress build",
     "dev": "vitepress dev",
-    "format": "prettier --write '**/*.{js,ts,css,scss}'",
+    "format": "prettier --write '**/*.{js,ts,vue,css,scss}'",
     "serve": "vitepress serve",
     "start": "vitepress dev"
   },
